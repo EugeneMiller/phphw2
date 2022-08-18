@@ -23,4 +23,5 @@ class Point
 $p = new Point(100, 200);
 //echo $p . '<br/>';
 echo "[".$p->xCoord."]";
+echo "some changes";
 print_r(PDO::getAvailableDrivers());
